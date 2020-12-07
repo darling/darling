@@ -1,5 +1,11 @@
 # Welcome to my profile
 
-There isn't much to see here. My projects are kept private. If you'd like to talk just email me or contact me on discord if you know it.
+Hi! My name is Carter, I am a student studying Comp Sci. and hope to build cool stuff!
+
+I mainly enjoy working with Typescript, React, Next.js, and am an avid fan of Firebase.
+
+My current project is https://ferris.gg/
+
+I am also looking for a job! Feel free to reach out if interested.
 
 Thanks!
