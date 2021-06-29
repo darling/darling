@@ -6,6 +6,4 @@ I mainly enjoy working with Typescript, React, Next.js, and am an avid fan of Fi
 
 My current project is https://ferris.gg/
 
-I am also looking for a job! Feel free to reach out if interested.
-
 Thanks!
